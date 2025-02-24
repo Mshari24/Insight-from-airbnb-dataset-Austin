@@ -1,5 +1,7 @@
 # Insight-from-airbnb-dataset-Austin
-1- <img width="351" alt="Screenshot 2025-02-24 at 2 52 01 PM" src="https://github.com/user-attachments/assets/15fabe45-b38e-4480-ac43-abac027f0a9e" />
+
+1-''' calendar.available.value_counts() ''' 
+<img width="351" alt="Screenshot 2025-02-24 at 2 52 01 PM" src="https://github.com/user-attachments/assets/15fabe45-b38e-4480-ac43-abac027f0a9e" />
 
 2-<img width="735" alt="Screenshot 2025-02-24 at 2 53 07 PM" src="https://github.com/user-attachments/assets/afda178d-98de-42f4-8984-c1d9c360315b" />
 
